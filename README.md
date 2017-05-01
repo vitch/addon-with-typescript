@@ -1,6 +1,8 @@
 # addon-with-typescript
 
-This README outlines the details of collaborating on this Ember addon.
+This addon demonstrates how to use `ember-cli-typescript` from an addon so that the 
+typescript files in your addon are compiled to JS and available in a) its dummy app and
+b) a consuming application
 
 ## Installation
 

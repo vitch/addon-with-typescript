@@ -1,17 +1,17 @@
 {
   "name": "addon-with-typescript",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Showing how to use ember-cli-typescript from an addon",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Kelvin Luck <git@kelvinluck.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/vitch/addon-with-typescript.git",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
